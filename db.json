@@ -1,0 +1,65 @@
+{
+  "users": [
+    { "id": 1, "username": "ivankirilovd", "password": "Test123!" },
+    { "id": 2, "username": "Spas", "password": "Spas123!" }
+  ],
+  "unpaidInsurances": [
+    {
+      "id": 1,
+      "typeOfInsurance": "Застраховка ГО",
+      "paymentDate": "2023-04-15",
+      "status": "неплатена",
+      "automobileNumber": "В0955НС",
+      "numberOfInstance": "3/4"
+    },
+    {
+      "id": 2,
+      "typeOfInsurance": "Имущество",
+      "paymentDate": "2023-05-22",
+      "status": "неплатена"
+    },
+    {
+      "id": 3,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-15",
+      "status": "неплатена"
+    },
+    {
+      "id": 4,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-12",
+      "status": "изтичаща"
+    },
+    {
+      "id": 5,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-15",
+      "status": "изтичаща"
+    },
+    {
+      "id": 6,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-15",
+      "status": "изтичаща"
+    },
+    {
+      "id": 7,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-11",
+      "status": "неизъплнена"
+    },
+    {
+      "id":8,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-15",
+      "status": "неизъплнена"
+    },
+    {
+      "id":9,
+      "typeOfInsurance": "Помощ при пътуване",
+      "paymentDate": "2023-06-12",
+      "status": "неизъплнена"
+    }
+  ]
+}
+
