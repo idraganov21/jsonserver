@@ -1,7 +1,7 @@
 {
   "users": [
     { "id": 1, "username": "ivankirilovd", "password": "Test123!" },
-    { "id": 2, "username": "Spas", "password": "Spas123!" }
+    { "id": 2, "username": "brokerins", "password": "Ins123!" }
   ],
   "unpaidInsurances": [
     {
