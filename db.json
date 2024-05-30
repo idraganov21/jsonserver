@@ -10,7 +10,8 @@
       "paymentDate": "2023-04-15",
       "status": "неплатена",
       "automobileNumber": "В0955НС",
-      "numberOfInstance": "3/4"
+      "numberOfInstance": "3/4",
+      "payment": "no"
     },
     {
       "id": 2,
